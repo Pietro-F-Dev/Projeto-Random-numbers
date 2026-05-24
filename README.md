@@ -7,4 +7,4 @@
 <h2>Fique a vontade para testar esse projeto clicando aqui :blush:: <a href = https://pietrominto.github.io/Projeto-Random-numbers/>PROJETO</a></h2>
 <br>
 <h3>Imagem da página do projeto logo abaixo</h3>
-<img src= https://github.com/PietroMinto/Projeto-Random-numbers/blob/main/assets/Desktop%20Screenshot%202024.08.06%20-%2013.58.27.88.png?raw=true>
+<img src= https://pietro-f-dev.github.io/Projeto-Random-numbers/>
